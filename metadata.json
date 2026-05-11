@@ -1,0 +1,6 @@
+{
+  "name": "NutriScan",
+  "description": "AI food image analysis tool estimating nutrition, hygiene, and health impact.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
